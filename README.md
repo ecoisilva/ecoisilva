@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a postdoctoral researcher in the Earth System Science group at the Center for Advanced Systems Understanding (CASUS), located in Görlitz, Germany. I am studying animal-road interactions and movement ecology study design. My PhD was based in Thailand, working on the spatial-temporal patterns of wildlife-vehicle collisions in a Thai biodiversity hotspot, with a secondary focus on bat communities. I am particularly interested in movement ecology and road ecology.
+I am a postdoctoral researcher in the Earth System Science group at the Center for Advanced Systems Understanding ([CASUS](https://www.casus.science/)), located in Görlitz, Germany. I am studying animal-road interactions and movement ecology study design. My PhD was based in Thailand, working on the spatial-temporal patterns of wildlife-vehicle collisions in a Thai biodiversity hotspot, with a secondary focus on bat communities. I am particularly interested in movement ecology and road ecology.
 
 🚧 I’m currently working on:
 - [`{movedesign}`](https://github.com/ecoisilva/movedesign), a `{Shiny}` application to assist in movement study design that leverages the `{ctmm}` R package;
