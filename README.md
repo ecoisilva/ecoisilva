@@ -13,7 +13,7 @@ I am a postdoctoral researcher in the Earth System Science group at the Center f
 
 :bust_in_silhouette: Learn more about my interests through my profiles:
 
-[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=dRvr6IYAAAAJ&view_op=list_works&sortby=pubdate) | [Twitter/X](https://twitter.com/ecoisilva) | [BlueSky](https://bsky.app/profile/ecoisilva.bsky.social) | [ORCID](https://orcid.org/0000-0002-2886-0649)
+[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=dRvr6IYAAAAJ&view_op=list_works&sortby=pubdate) | [Twitter/X](https://twitter.com/ecoisilva) | [BlueSky](https://bsky.app/profile/ecoisilva.bsky.social) | [ORCID](https://orcid.org/0000-0003-4850-6193)
 
 <!--
 **ecoisilva/ecoisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
