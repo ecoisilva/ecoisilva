@@ -12,9 +12,9 @@ I am a postdoctoral researcher in the Earth System Science group at the Center f
 - I’m available to collaborate on projects related to the animal movement analyses or the study design of tracking projects. I am also really interested in anything to do with wildlife-vehicle collisions or wildlife-road interactions. If you’re looking for collaborations, assistance or advice in these areas, feel free to reach out— I’d be happy to help!
 
 :bust_in_silhouette: Learn more about my interests through my profiles:
-<div style="text-align: center;">
+
 [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=dRvr6IYAAAAJ&view_op=list_works&sortby=pubdate) | [Twitter/X](https://twitter.com/ecoisilva) | [BlueSky](https://bsky.app/profile/ecoisilva.bsky.social) | [ORCID](https://orcid.org/0000-0002-2886-0649)
-</div>
+
 <!--
 **ecoisilva/ecoisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
