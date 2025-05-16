@@ -5,7 +5,7 @@ I am a postdoctoral researcher in the Earth System Science group at the Center f
 🚧 I’m currently working on:
 - [`{movedesign}`](https://github.com/ecoisilva/movedesign), a `{Shiny}` application to assist in movement study design that leverages the `{ctmm}` R package;
 
-🔭 I have worked on:
+🔭 Recently, I have worked on:
 - [`{AKDE_minireview_ms}`](https://github.com/ecoisilva/AKDE_minireview), a review and tutorial to autocorrelated home range estimation using `{R}`.
 
 💡 I’m looking to collaborate on:
