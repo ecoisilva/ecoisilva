@@ -19,9 +19,9 @@ I am a postdoctoral researcher in the Earth System Science group at the Center f
   <a href="https://bsky.app/profile/ecoisilva.bsky.social" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=dRvr6IYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Scholar-009da0?logo=google-scholar&logoColor=white" /></a>
 </p>
-
+<!--
 [![Visits Badge](https://badges.pufler.dev/visits/ecoisilva/ecoisilva)](https://github.com/ecoisilva)
 [![Repos Badge](https://badges.pufler.dev/repos/ecoisilva)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/ecoisilva)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/ecoisilva/ecoisilva)](https://badges.pufler.dev)
-
+-->
