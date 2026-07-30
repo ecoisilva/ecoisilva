@@ -16,9 +16,10 @@ I am a postdoctoral researcher in the Earth System Science group at the Center f
 
 💬 For more:
 
-<p><a href="https://github.com/ecoisilva" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a> 
+<p><a href="https://ecoisilva.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-1f6feb?logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/ecoisilva" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a> 
   <a href="https://bsky.app/profile/ecoisilva.bsky.social" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=dRvr6IYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Scholar-009da0?logo=google-scholar&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=dRvr6IYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Scholar-009da0?logo=quarto&logoColor=white" /></a>
 </p>
 
 <!--
